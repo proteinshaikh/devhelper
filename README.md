@@ -1,2 +1,2 @@
 # devhelper
-be better everyday
+links to help devs code better
